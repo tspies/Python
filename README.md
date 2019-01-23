@@ -1,4 +1,4 @@
-# Soccer Tally system
+# Soccer Score Tally System
 
 This python project takes results from soccer matches in the format {$team $score, $team $score}. <br/>
 Regex was used by "import re" for re.findAll and re.sub. <br/>
