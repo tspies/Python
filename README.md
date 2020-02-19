@@ -4,7 +4,5 @@
         sorts files like .jpg .zip and others into folders
 2. ### Soccer_Score_Log:
         Simulation of soccer team scores during a season
-3. ### Dice_Simulator:
-        Simulate dice rolls up to a D20
-4. ### Email_logger:
+3. ### Email_logger:
         Serelium based script to log into gmail account
